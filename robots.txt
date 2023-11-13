@@ -1,0 +1,1 @@
+Sitemap: https://travelblanket.netlify.app/sitemap.xml
